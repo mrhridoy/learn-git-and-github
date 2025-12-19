@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Test.slnx/v18
+/obj/
+/LearnGitAndGithub/.vs/LearnGitAndGithub
