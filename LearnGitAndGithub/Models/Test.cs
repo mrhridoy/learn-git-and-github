@@ -7,5 +7,7 @@
         public string Description { get; set; }
 
         public string Information { get; set; } 
+
+        public string Line1 { get; set; }
     }
 }
